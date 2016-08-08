@@ -1,0 +1,30 @@
+_repo: A-start-in-life.-A-journey-across-America.-Fruit-farming-in-California_12022
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dowsett, C. F. (Charles Finch)
+    birthdate: 1835
+    deathdate: 1915
+    gutenberg_agent_id: '4182'
+    url: http://www.gutenberg.org/2009/agents/4182
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12022'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Description and travel'
+- !lcsh 'Urbanization -- California'
+- !lcsh 'Agriculture -- California'
+- !lcc 'E151'
+- !lcsh 'Real estate development -- California'
+- !lcsh 'Fruit-culture -- California'
+- !lcsh 'Ethnic groups -- California'
+- !lcsh 'United States -- Description and travel'
+- GITenberg
+title: A start in life. A journey across America. Fruit farming in California
+url: http://www.gutenberg.org/ebooks/12022
